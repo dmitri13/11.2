@@ -45,17 +45,22 @@
 
 Установите и запустите memcached
 
-![memcached]
+![memcached](https://github.com/dmitri13/11.2/blob/main/img/memcached.png)
  
-
 ---
 
 ### Задание 3
 
+Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5
 
 
 
 ### Задание 4
 
+Запишите в Redis несколько ключей с любыми именами и значениями.
+
+Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.
+
+![redis](https://github.com/dmitri13/11.2/blob/main/img/redis.png)
 -
 
